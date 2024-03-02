@@ -29,7 +29,7 @@ Installation
 
 1. Download the `windows-command-line-tool-launcher.bat` file from the [releases](https://github.com/yourusername/windows-command-line-tool-launcher/releases) page or clone the repository:
 ```bash
-git clone https://github.com/yourusername/windows-command-line-tool-launcher.git
+git clone https://github.com/PaulPoandl/Windows-Command-Line-Tool-Launcher.git
 ```
 2. (Optional) Create a shortcut to the `windows-command-line-tool-launcher.bat` file for easier access.
 
