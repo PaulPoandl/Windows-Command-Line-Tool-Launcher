@@ -27,7 +27,7 @@ Requirements
 Installation
 ------------
 
-1. Download the `windows-command-line-tool-launcher.bat` file from the [releases](https://github.com/yourusername/windows-command-line-tool-launcher/releases) page or clone the repository:
+1. Download the `windows-command-line-tool-launcher.bat` file from the [releases](https://github.com/PaulPoandl/Windows-Command-Line-Tool-Launcher/tags) page or clone the repository:
 ```bash
 git clone https://github.com/PaulPoandl/Windows-Command-Line-Tool-Launcher.git
 ```
